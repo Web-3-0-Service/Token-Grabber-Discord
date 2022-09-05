@@ -1,4 +1,4 @@
-# ⚠️You can buy the script Python directly on [@discord](https://discord.gg/zE5nUjbbk8)
+# ⚠️You can buy the script Python directly on [@discord](https://discord.gg/JTjj2FQNUh)
 
 <h1 align="center">
 Token Grabber😈
@@ -45,7 +45,7 @@ Make sure you have [Python](https://www.python.org/downloads/) installed and it 
 ```sh-session
 python v3.10.1 or higher
 ```
-### 0. Buy the script Python on discord --> https://discord.gg/zE5nUjbbk8
+### 0. Buy the script Python on discord --> https://discord.gg/JTjj2FQNUh
 
 ### 1. Download The Files:
 ```
@@ -90,4 +90,4 @@ this to your victims.😈
 
 Camelotis - https://twitter.com/Camelotis98
 
-Web 3.0 Service Agency discord - https://discord.gg/zE5nUjbbk8
+Web 3.0 Service Agency discord - https://discord.gg/JTjj2FQNUh
